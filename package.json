@@ -10,7 +10,8 @@
   "author": "dungang <dungang@126.com>",
   "license": "MIT",
   "dependencies": {
-    "log4js": "^3.0.6"
+    "log4js": "^3.0.6",
+    "mousetrap": "^1.6.2"
   },
   "devDependencies": {
     "electron": "^4.0.0",
