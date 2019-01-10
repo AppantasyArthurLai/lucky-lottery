@@ -6,14 +6,14 @@ var config =  {
     background:'images/bg-1.png',
 
     title: '2019 集商网络科技（上海）公司年会',
-    titleFontSize: '55px',
+    titleFontSize: '70px',
     titleColor:'#fdd312',
 
     subTitle: '幸运大抽奖',
-    subTitleFontSize: '50px',
+    subTitleFontSize: '60px',
     subTitleColor:'#fdd312',
     
-    rewardTitleFontSize:'80px',
+    rewardTitleFontSize:'90px',
     rewardTitleColor:'#fdd312',
     rewardAreaTop: "20%", //10%
     rewardWelcomeMessage: "激动人心的时刻即将开始！",
@@ -40,21 +40,21 @@ var config =  {
                     count:6,     //奖项数量
                     capacity:1,//一次抽取数量[1，count]
                     namesOfLine:1,  //获奖区每行显示几个名字 [1,2,3,4,6,12]
-                    nameFontSize: 80 //px
+                    nameFontSize: 200 //px
                 },
                 {
                     title:'二等奖',  //奖项名称
                     count:3,//奖项数量
                     capacity:1,//一次抽取数量[1，count]
                     namesOfLine:1,  //获奖区每行显示几个名字 [1,2,3,4,6,12]
-                    nameFontSize: 120 //px
+                    nameFontSize: 200 //px
                 },
                 {
                     title:'一等奖', //奖项名称
                     count:1,     //奖项数量
                     capacity:1,//一次抽取数量[1，count]
                     namesOfLine:1,  //获奖区每行显示几个名字 [1,2,3,4,6,12]
-                    nameFontSize: 160 //px
+                    nameFontSize: 200 //px
                 }
             ]
         },
