@@ -32,7 +32,7 @@ var config =  {
         //消费的人员不出现在后面的活动中
         //每个任务使用 users.txt中的名单
         {
-            title:'开心百分百',
+            title:'年会',
             except:[], //排除users.txt中的名单
             rewards:[
                 {
