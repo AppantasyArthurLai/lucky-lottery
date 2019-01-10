@@ -9,7 +9,7 @@
     "dist": "electron-builder",
     "win": "build --win"
   },
-  "author": "dungang <dungang@126.com>",
+  "author": "FE <dev@86links.com>",
   "license": "MIT",
   "dependencies": {
     "log4js": "^3.0.6",
